@@ -1,7 +1,7 @@
-# Techplement
+# Techplement - Week-1 Task
+# Overview
 This Java application allows users to create, manage, and take quizzes through a text-based interface. Users can interact with the system to create quizzes, add questions, and take quizzes, with scores and feedback provided at the end.
 
----
 # Quiz Generator
 
 This program allows you to create, manage, and take quizzes through a command-line interface.
